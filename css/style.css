@@ -1,4 +1,48 @@
 body{
   background-color: #004AAD;
   margin: 0;
+  text-align: center;
+  font-family: 'Chau Philomene One', monospace;
+}
+
+h1{
+  color: #FFB923;
+  font-family: 'Chau Philomene One', monospace;
+}
+
+h3{
+  color: #FFB923;
+  font-family: 'Chau Philomene One', monospace;
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+p{
+  font-family: 'Chau Philomene One', monospace;
+}
+
+a:hover{
+  color: white;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+a.footer{
+  color: #FFB923;
+}
+
+a.footer:hover{
+  color: white;
+}
+
+a.liste{
+  text-decoration: none;
+  color: #FFB923;
+  font-family: 'Chau Philomene One', monospace;
+  font-size: 30px;
+}
+
+a.liste:hover{
+  text-decoration: underline;
+  color: white;
 }
