@@ -3,4 +3,4 @@
 |:warning: The code must not be changed
 |--------
 
-A website for all my « Life Is A Game » project
+A website for all my « ♟️ Life Is A Game 🎮 » projects 
