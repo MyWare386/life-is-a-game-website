@@ -6,3 +6,5 @@
 A website for all my « ♟️ Life Is A Game 🎮 » projects 
 
 ↗️ https://myware386.github.io/life-is-a-game-website/
+
+Note : The website is in French 🇫🇷
