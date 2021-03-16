@@ -16,4 +16,4 @@ A website for all my « ♟️ Life Is A Game 🎮 » projects
 _Note_
 -----------------
 
-The website is in French 🇫🇷
+- The website is in French 🇫🇷
