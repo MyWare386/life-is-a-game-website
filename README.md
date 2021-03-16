@@ -17,3 +17,4 @@ _Note_
 -----------------
 
 - The website is in French 🇫🇷
+- There is not just "Life Is A Game" projects
