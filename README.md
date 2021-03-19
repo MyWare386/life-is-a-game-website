@@ -15,6 +15,7 @@ A website for all my « ♟️ Life Is A Game 🎮 » projects
 
 News
 --------------------
+_"Something's wrong, I can feel it"_
 
 <br>
 
