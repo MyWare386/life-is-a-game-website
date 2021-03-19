@@ -13,6 +13,11 @@ A website for all my « ♟️ Life Is A Game 🎮 » projects
 
 <br>
 
+News
+--------------------
+
+<br>
+
 _Notes_
 -----------------
 
