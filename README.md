@@ -18,3 +18,10 @@ _Note_
 
 - The website is in French 🇫🇷
 - There is not just "Life Is A Game" projects (there is also my websites)
+
+<br>
+
+Credits
+-----------------
+
+Made with HTML, CSS and Javascript by **MyWare** (https://github.com/MyWare386).
