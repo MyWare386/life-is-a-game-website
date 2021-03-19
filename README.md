@@ -13,7 +13,7 @@ A website for all my « ♟️ Life Is A Game 🎮 » projects
 
 <br>
 
-_Note_
+_Notes_
 -----------------
 
 - The website is in French 🇫🇷
