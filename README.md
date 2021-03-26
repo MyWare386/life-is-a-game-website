@@ -30,4 +30,4 @@ _Notes_
 Credits
 -----------------
 
-Made with HTML, CSS and Javascript by **MyWare** (https://github.com/MyWare386).
+Made with HTML, CSS and Javascript by **MyWare**.
