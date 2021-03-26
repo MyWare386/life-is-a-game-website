@@ -30,4 +30,4 @@ _Notes_
 Credits
 -----------------
 
-Made with HTML, CSS and Javascript by <a href="https://myware386.github.io/myware-website/">**MyWare**</a>.
+Made with HTML, CSS and Javascript by <a href="https://myware386.github.io/myware-website/" target="_blank">**MyWare**</a>.
