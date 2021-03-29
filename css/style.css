@@ -46,3 +46,7 @@ a.liste:hover{
   text-decoration: underline;
   color: white;
 }
+
+li{
+  list-style: none;
+}
