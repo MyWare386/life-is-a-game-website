@@ -19,7 +19,7 @@ _"Something's wrong, I can feel it"_
 
 <br>
 
-_Notes_
+Notes
 -----------------
 
 - The website is in French 🇫🇷
